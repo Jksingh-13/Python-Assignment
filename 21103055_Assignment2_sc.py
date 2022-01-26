@@ -6,16 +6,16 @@ print("The length of string is ",len(N))
 print("The reversed string is ",N[::-1])
 #1c
 N1= N[10:26:]
-print("The index of substring A is ",N1)
+print("The sliced string is ",N1)
 #1d
 N2=N[:10:]+"object oriented",N[26::]
-print("The original string after removing whitespaces is ",N2)
+print("The replaced string is ",N2)
 #1e
 x=N.index("a")
-print(x)
+print("The index of substring A is ",x)
 #1f
 N3=N.replace(" ","")
-print(N3)
+print("The original string after removing whitespaces is ",N3)
 print()
 
 
