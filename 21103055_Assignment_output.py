@@ -5,10 +5,10 @@ Type "help", "copyright", "credits" or "license()" for more information.
 Enter the string python is a case sesative language
 The length of string is  35
 The reversed string is  egaugnal evitases esac a si nohtyp 
-The index of substring A is   a case sesative
-The original string after removing whitespaces is  (' python isobject oriented', ' language')
-11
-pythonisacasesesativelanguage
+The sliced string is   a case sesative
+The replaced string is  python ia object oriented language
+The index of substring A is 11
+The original string after removing whitespaces is pythonisacasesesativelanguage
 
 Hey, Jaskeerat Singh Here!
 My SID is 21103055
