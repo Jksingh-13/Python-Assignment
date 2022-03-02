@@ -98,7 +98,7 @@ class Student:
     def __del__(self):
         print("Object destroyed")
 
-student_Required = Student("SANCHITA GOEL", 21103011) 
+student_Required = Student("Jaskeerat", 21103055) 
 print("Object has been created")
 
 print(f"The name of the student is {student_Required.name} and SID is {student_Required.roll_no}.")
